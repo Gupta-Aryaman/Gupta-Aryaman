@@ -1,11 +1,10 @@
 ![152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d](https://user-images.githubusercontent.com/34962578/236694405-8e7ad60a-7e57-417a-b788-fd30fa002ab2.png)
 
 <h1 align="center">Hello - Namaste</h1>
-<h3 align="center">I'm Aryaman, passionate backend developer from India 🇮🇳</h3>
+<h3 align="center">I'm Aryaman, passionate backend developer from India 🇮🇳</h3><br>
 
-# 💫 About Me:
-🌱 I’m currently learning django and JavaScript - React and express<br>💞️ I’m looking for Open Source projects to contribute in them<br>⭐⭐ I'm a 2 star coder on codechef<br>📝 I regularly write articles on Hashnode<br>💬 Ask me about django and flask<br><br>
-[![](https://visitcount.itsvg.in/api?id=gupta-aryaman&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">🌱 I’m currently learning <b>django</b> and JavaScript - React and express<br>💞️ I’m looking for Open Source projects to contribute in them<br>⭐⭐ I'm a 2 star coder on codechef<br>📝 I regularly write articles on <a href="https://hashnode.com/@screamy">Hashnode</a><br>💬 AMA about django and flask<br><br></p>
+<!-- [![](https://visitcount.itsvg.in/api?id=gupta-aryaman&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aryaman__gupta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryamangupta1/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@aryamangpta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aryaman_gupta) 
