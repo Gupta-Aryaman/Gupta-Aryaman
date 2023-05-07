@@ -1,5 +1,6 @@
 ![152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d](https://user-images.githubusercontent.com/34962578/236694405-8e7ad60a-7e57-417a-b788-fd30fa002ab2.png)
 <h1 align="center">Hi 👋, I'm Aryaman</h1>
+<h3 align="center">A passionate backend developer from New Delhi, India</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning django and JavaScript - React and express<br>💞️ I’m looking for Open Source projects to contribute in them<br>⭐⭐ I'm a 2 star coder on codechef<br>📝 I regularly write articles on Hashnode<br>💬 Ask me about django and flask<br><br>
@@ -14,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gupta-aryaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gupta-aryaman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-aryaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@aryamangpta)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 <!---
