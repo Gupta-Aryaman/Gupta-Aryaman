@@ -1,4 +1,5 @@
-![152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d](https://user-images.githubusercontent.com/34962578/236694405-8e7ad60a-7e57-417a-b788-fd30fa002ab2.png)
+<!-- ![152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d](https://user-images.githubusercontent.com/34962578/236694405-8e7ad60a-7e57-417a-b788-fd30fa002ab2.png) -->
+![WhatsApp Image 2023-05-31 at 22 06 00](https://github.com/Gupta-Aryaman/Gupta-Aryaman/assets/34962578/05eb04a7-a995-4d51-b1e5-c35c7ad8e56c)
 
 <h1 align="center">Hello - नमस्ते</h1>
 <h3 align="center">I'm Aryaman, passionate backend developer from India</h3><br>
@@ -25,9 +26,9 @@
 </div>
  -->
 
-![](https://github-readme-stats.vercel.app/api?username=gupta-aryaman&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gupta-aryaman&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-aryaman&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gupta-aryaman&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gupta-aryaman&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-aryaman&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
 Gupta-Aryaman/Gupta-Aryaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
