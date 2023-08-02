@@ -18,6 +18,16 @@
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://aryamangupta.hashnode.dev//finding-success-in-a-dynamic-environment-lessons-learned-from-my-internship-at-a-corporate-government-firm" title="Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2LowviVHZ-E/upload/e5c68d050f0a031e98579567eb3f11b3.jpeg" alt="Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm" width="250px" align="left" /></a>
+<a href="https://aryamangupta.hashnode.dev//finding-success-in-a-dynamic-environment-lessons-learned-from-my-internship-at-a-corporate-government-firm" title="Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm"><strong>Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm</strong></a>
+<br/> Introduction
+Embarking on an internship journey within a corporate government firm can be exciting and challenging. I was amazed by the valuable lessons and experiences that awaited me as I delved into this professional realm. In this article, I will... </p> <br/> <br/>
+<p align="left">
+<a href="https://aryamangupta.hashnode.dev//decorators-in-python" title="Decorators in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ieic5Tq8YMk/upload/ea580875bc49b86ced434eb3edba81d8.jpeg" alt="Decorators in Python" width="250px" align="left" /></a>
+<a href="https://aryamangupta.hashnode.dev//decorators-in-python" title="Decorators in Python"><strong>Decorators in Python</strong></a>
+<br/> What on earth are decorators???
+Decorators are essentially single reusable functions that take a "function" as input and return a modified version of it. Decorators are just a bit different from regular functions because they wrap the "input function... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # 📊 GitHub Stats:
