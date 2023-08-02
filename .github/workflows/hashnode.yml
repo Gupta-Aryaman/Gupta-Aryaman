@@ -1,10 +1,5 @@
 name: "📚 latest Blog"
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0" # Runs Every 24 Hours
-
 jobs:
   update_blogs:
     name: "Update With Latest Blogs"
@@ -22,4 +17,3 @@ jobs:
           BLOG_URL: "https://aryamangupta.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
