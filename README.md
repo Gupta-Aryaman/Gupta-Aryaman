@@ -16,6 +16,8 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br> ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 
+<br />
+
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
@@ -29,22 +31,15 @@ Embarking on an internship journey within a corporate government firm can be exc
 <br/> What on earth are decorators???
 Decorators are essentially single reusable functions that take a "function" as input and return a modified version of it. Decorators are just a bit different from regular functions because they wrap the "input function... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
+<br/>
+<br/>
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=gupta-aryaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gupta-aryaman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-aryaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-<!-- <div style="">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=gupta-aryaman&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-aryaman&theme=radical&layout=compact" />
-</div>
- -->
-
-![](https://github-readme-stats.vercel.app/api?username=gupta-aryaman&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gupta-aryaman&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gupta-aryaman&theme=algolia&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-aryaman&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
+
+![](https://github-readme-stats.vercel.app/api?username=gupta-aryaman&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
 Gupta-Aryaman/Gupta-Aryaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
