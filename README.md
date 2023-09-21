@@ -21,6 +21,12 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://aryamangupta.hashnode.dev//asynchronous-programming-in-python" title="Asynchronous Programming in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695308791796/0e1a3819-f664-4555-8168-d2083b116b04.webp" alt="Asynchronous Programming in Python" width="250px" align="left" /></a>
+<a href="https://aryamangupta.hashnode.dev//asynchronous-programming-in-python" title="Asynchronous Programming in Python"><strong>Asynchronous Programming in Python</strong></a>
+<br/> Sync vs Async
+What is a synchronous programming?
+Synchronous programming is a programming paradigm in which operations are executed sequentially, one after the other. In this model, each operation waits for the previous one to complete before moving ... </p> <br/> <br/>
+<p align="left">
 <a href="https://aryamangupta.hashnode.dev//finding-success-in-a-dynamic-environment-lessons-learned-from-my-internship-at-a-corporate-government-firm" title="Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2LowviVHZ-E/upload/e5c68d050f0a031e98579567eb3f11b3.jpeg" alt="Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm" width="250px" align="left" /></a>
 <a href="https://aryamangupta.hashnode.dev//finding-success-in-a-dynamic-environment-lessons-learned-from-my-internship-at-a-corporate-government-firm" title="Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm"><strong>Finding Success in a Dynamic Environment: Lessons Learned from My Internship at a Corporate Government Firm</strong></a>
 <br/> Introduction
