@@ -1,5 +1,7 @@
 <!-- ![152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d](https://user-images.githubusercontent.com/34962578/236694405-8e7ad60a-7e57-417a-b788-fd30fa002ab2.png) -->
-![WhatsApp Image 2023-05-31 at 22 06 00](https://github.com/Gupta-Aryaman/Gupta-Aryaman/assets/34962578/05eb04a7-a995-4d51-b1e5-c35c7ad8e56c)
+<!-- ![WhatsApp Image 2023-05-31 at 22 06 00](https://github.com/Gupta-Aryaman/Gupta-Aryaman/assets/34962578/05eb04a7-a995-4d51-b1e5-c35c7ad8e56c) -->
+![banner-without-name](https://github.com/Gupta-Aryaman/Gupta-Aryaman/assets/34962578/88113a18-5708-4268-b5a6-48dfe4db3454)
+
 
 <h1 align="center">Hello - नमस्ते</h1>
 <h3 align="center">I'm Aryaman, passionate backend developer from India</h3><br>
